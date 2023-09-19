@@ -125,3 +125,21 @@ Colors List:
   -    lightGrey: '#fafafa',
   -    white: '#ffffff',
   -    red: '#ff3939', 
+
+
+Fonts: 
+Font-Family: Instrument Sans
+
+Line-Height: Apply 150% to all front sizes.
+- Heading Medium: 32px
+- Heading Small: 16px
+- Body Medium: 16px
+- Body Small: 12px
+
+
+Typography: 
+Font: Instrument Sans
+- Heading Medium: Bold
+- Heading Small: Bold
+- Body Medium: Regular
+- Body Small: Regular

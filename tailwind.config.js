@@ -29,9 +29,12 @@ export default {
       headingS: ['16px', { lineHeight: '24px',}],
       bodyM: ['16px', { lineHeight: '24px',}],
       bodyS: ['12px', { lineHeight: '18px',}],
-    }
+    },
+    fontFamily: {
+      iSans: 'insturmentSans, sans-serif',
+      iSansI: 'insturmentSansItalic, sans-serif',
+    },
     extend: {
-      
     },
   },
   plugins: [],

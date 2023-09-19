@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: insturmentSans;
+        src: url(../public/assets/fonts/InstrumentSans-VariableFont_wdth\,wght.ttf);
+    }
+    @font-face {
+        font-family: insturmentSansItalic;
+        src: url(../public/assets/fonts/InstrumentSans-VariableFont_wdth\,wght.ttf);
+    }
+}
