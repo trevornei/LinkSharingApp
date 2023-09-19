@@ -20,6 +20,10 @@ export default {
       white: '#ffffff',
       red: '#ff3939', 
     },
+    boxShadow: {
+      sm: '0px 2px 4px rgb(11, 10, 55, 0.15)', 
+      lg: '0px 8px 20px rgb(18, 16, 99, 0.06)',
+    },
     extend: {
       
     },
