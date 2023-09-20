@@ -1,9 +1,13 @@
 import './App.css'
 import Nav from './components/nav'
+import Body from './Body'
 
 function App() {
   return (
-    <Nav/>
+    <div>
+      <Nav/>
+      <Body/>
+    </div>
   )
 }
 
