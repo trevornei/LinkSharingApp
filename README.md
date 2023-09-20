@@ -1,3 +1,6 @@
+My Project going forward: 09/20/23
+  I just learned that React does not let you configure anchor tags the same way you would using vanilla FE stacks. I need to use React Router to connect buttons to different pages. Since this is next weeks curiculumn and this project is quite involved: I will start from scratch for my week 15 project. I look forward to learning React Router, to making websites responsive, to learning how to make my websites more accessible, and in doing so deepen my love for this magical thing called the internet.
+  
 # Frontend Mentor - Link-sharing app
 
 ![Design preview for the Link-sharing app coding challenge](./preview.jpg)

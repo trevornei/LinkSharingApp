@@ -8,6 +8,9 @@ export default function PhoneUI() {
                 No need to reinvent  the wheel.
                 How do I manipulate the SVG for the phone image.
                 Ask the Discord server.
+
+                React Router will help me have multiple pages.
+                Local Host:... for multiple pages.
             */}
             <img src={PhoneImg} alt="An outline of a phone that displays information about social media links." />
         </div>
